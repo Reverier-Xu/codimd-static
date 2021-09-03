@@ -1,19 +1,9 @@
-/*
- *  /MathJax/localization/scn/MathML.js
- *
- *  Copyright (c) 2009-2018 The MathJax Consortium
- *
- *  Licensed under the Apache License, Version 2.0 (the "License");
- *  you may not use this file except in compliance with the License.
- *  You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- *  Unless required by applicable law or agreed to in writing, software
- *  distributed under the License is distributed on an "AS IS" BASIS,
- *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- *  See the License for the specific language governing permissions and
- *  limitations under the License.
- */
+MathJax.Localization.addTranslation("scn","MathML",{version:"2.7.9",isLoaded:!0,strings:{BadMglyph:"mglyph sbagghiatu: %1",BadMglyphFont:"Tipu di car\xE0ttiri sbagghiatu: %1",MathPlayer:`MathJax nun arrinisc\xECu a armari lu MathPlayer.
 
-MathJax.Localization.addTranslation("scn","MathML",{version:"2.7.5",isLoaded:true,strings:{BadMglyph:"mglyph sbagghiatu: %1",BadMglyphFont:"Tipu di car\u00E0ttiri sbagghiatu: %1",MathPlayer:"MathJax nun arrinisc\u00ECu a armari lu MathPlayer.\n\nSi lu MathPlayer nun \u00E8 istallatu, pi prima cosa s'havi a istallari.\nSinn\u00F2, li t\u00F2 mpustazzioni d\u00E2 sicurizza purr\u00ECanu nun pirm\u00E8ttiri lu funziunamentu\nd\u00EE cuntrolli ActiveX. Grapi la vuci \u00ABOpzioni Internet\u00BB nt\u00F4 men\u00F9 \u00ABStrummenti\u00BB e pigghia la linguetta \u00ABSicurizza\u00BB, e dd\u00E0 carca lu buttuni \u00ABLiveddu pirsunalizzatu...\u00BB. Cuntrolla ch\u00EE mpustazzioni \u00ABEsegui cuntrolli ActiveX e plug-in\u00BB e \u00ABCumpurtamentu file binari e script\u00BB sunnu attivati.\n\nComu a ora vidi missagg\u00EE d'erruri mmeci chi f\u00F2rmuli matim\u00E0tichi mpagginati",CantCreateXMLParser:"MathJax nun p\u00F2 criari n'analizzaturi sint\u00E0tticu XML p\u00FB MathML. Cuntrolla chi \u00E8 attivata la mpustazzioni di sicurizza \u00ABEsegui script cuntrolli ActiveX contrassignati comu sicuri\u00BB (grapi la vuci \u00ABOpzioni Internet\u00BB nt\u00F4 men\u00F9 \u00ABStrummenti\u00BB, scegghi la linguetta \u00ABSicurizza\u00BB, e carca lu buttuni \u00ABLiveddu pirsunalizzatu...\u00BB p'attruvari sta mpustazzioni).\n\nL'equazzioni MathML nun ponnu \u00E8ssiri labburati di MathJax",UnknownNodeType:"Tipu di gruppu scanusciutu: %1",UnexpectedTextNode:"Gruppu di testu nun aspittatu: %1",ErrorParsingMathML:"Erruri nta l'an\u00E0lisi d\u00FB MathML",ParsingError:"Erruri nta l'an\u00E0lisi d\u00FB MathML: %1",MathMLSingleElement:"Lu MathML havi a \u00E8ssiri furmatu di n'elimentu s\u00ECngulu",MathMLRootElement:"Lu MathML havi a \u00E8ssiri furmatu di n'elimentu \u003Cmath\u003E, no %1"}});MathJax.Ajax.loadComplete("[MathJax]/localization/scn/MathML.js");
+Si lu MathPlayer nun \xE8 istallatu, pi prima cosa s'havi a istallari.
+Sinn\xF2, li t\xF2 mpustazzioni d\xE2 sicurizza purr\xECanu nun pirm\xE8ttiri lu funziunamentu
+d\xEE cuntrolli ActiveX. Grapi la vuci \xABOpzioni Internet\xBB nt\xF4 men\xF9 \xABStrummenti\xBB e pigghia la linguetta \xABSicurizza\xBB, e dd\xE0 carca lu buttuni \xABLiveddu pirsunalizzatu...\xBB. Cuntrolla ch\xEE mpustazzioni \xABEsegui cuntrolli ActiveX e plug-in\xBB e \xABCumpurtamentu file binari e script\xBB sunnu attivati.
+
+Comu a ora vidi missagg\xEE d'erruri mmeci chi f\xF2rmuli matim\xE0tichi mpagginati`,CantCreateXMLParser:`MathJax nun p\xF2 criari n'analizzaturi sint\xE0tticu XML p\xFB MathML. Cuntrolla chi \xE8 attivata la mpustazzioni di sicurizza \xABEsegui script cuntrolli ActiveX contrassignati comu sicuri\xBB (grapi la vuci \xABOpzioni Internet\xBB nt\xF4 men\xF9 \xABStrummenti\xBB, scegghi la linguetta \xABSicurizza\xBB, e carca lu buttuni \xABLiveddu pirsunalizzatu...\xBB p'attruvari sta mpustazzioni).
+
+L'equazzioni MathML nun ponnu \xE8ssiri labburati di MathJax`,UnknownNodeType:"Tipu di gruppu scanusciutu: %1",UnexpectedTextNode:"Gruppu di testu nun aspittatu: %1",ErrorParsingMathML:"Erruri nta l'an\xE0lisi d\xFB MathML",ParsingError:"Erruri nta l'an\xE0lisi d\xFB MathML: %1",MathMLSingleElement:"Lu MathML havi a \xE8ssiri furmatu di n'elimentu s\xECngulu",MathMLRootElement:"Lu MathML havi a \xE8ssiri furmatu di n'elimentu <math>, no %1"}}),MathJax.Ajax.loadComplete("[MathJax]/localization/scn/MathML.js");
